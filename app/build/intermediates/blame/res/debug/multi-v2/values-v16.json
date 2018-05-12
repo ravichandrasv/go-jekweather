@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GoJek\\GoJekWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\GoJek\\GoGek\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ravichandra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\516f51f77b0e8cbfccc587a5ef60d8e6\\res\\values-v16\\values-v16.xml",

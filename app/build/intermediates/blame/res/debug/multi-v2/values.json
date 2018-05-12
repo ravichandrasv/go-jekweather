@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GoJek\\GoJekWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\GoJek\\GoGek\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ravichandra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\202d25aea104d9ecbb46258a39be2e34\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\GoJek\\GoJekWeather\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\GoJek\\GoGek\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -37,6 +37,25 @@
                         "startOffsets": "50457",
                         "endColumns": "49",
                         "endOffsets": "50502"
+                    }
+                },
+                {
+                    "source": "D:\\GoJek\\GoGek\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "563",
+                        "startColumns": "4",
+                        "startOffsets": "51073",
+                        "endLines": "568",
+                        "endColumns": "12",
+                        "endOffsets": "51387"
                     }
                 },
                 {
@@ -54,25 +73,6 @@
                         "startOffsets": "9266,134921,135097,135219,135481,135676",
                         "endColumns": "88,65,121,60,65,66",
                         "endOffsets": "9350,134982,135214,135275,135542,135738"
-                    }
-                },
-                {
-                    "source": "D:\\GoJek\\GoJekWeather\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "563",
-                        "startColumns": "4",
-                        "startOffsets": "51073",
-                        "endLines": "568",
-                        "endColumns": "12",
-                        "endOffsets": "51387"
                     }
                 },
                 {
@@ -114,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "D:\\GoJek\\GoJekWeather\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\GoJek\\GoGek\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
